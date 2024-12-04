@@ -1,0 +1,135 @@
+[
+  {
+    "category": "Math Tutoring",
+    "photo": "https://i.ibb.co/vsQ087t/math.jpg",
+    "price": 20,
+    "serviceArea": "New York, NY",
+    "description": "Experienced math tutor for high school students.",
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "deadline": "2024-08-03T04:07:12.315Z",
+     "status": "pending"
+  },
+  {
+    "category": "Bangla Tutoring",
+    "deadline": "2024-08-09T12:29:06.843Z",
+    "description": "Learn Bangla from a native speaker with years of experience.",
+    "photo": "https://i.ibb.co/rfZWFCp/banhla2.jpg",
+    "price": 4000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "narayngonj",
+    "status": "pending"
+  },
+  {
+    "category": "Bangla Tutoring",
+    "deadline": "2024-08-09T12:29:06.843Z",
+    "description": "Learn Bangla from a native speaker with years of experience.",
+    "photo": "https://i.ibb.co/rfZWFCp/banhla2.jpg",
+    "price": 4000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "narayngonj",
+    "status": "pending"
+  },
+  {
+    "category": "Bangla Tutoring",
+    "deadline": "2024-08-09T12:29:06.843Z",
+    "description": "Learn Bangla from a native speaker with years of experience.",
+    "photo": "https://i.ibb.co/rfZWFCp/banhla2.jpg",
+    "price": 4000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "narayngonj",
+    "status": "pending"
+  },
+  {
+    "category": "Bangla Tutoring",
+    "deadline": "2024-08-09T12:29:06.843Z",
+    "description": "Learn Bangla from a native speaker with years of experience.",
+    "photo": "https://i.ibb.co/rfZWFCp/banhla2.jpg",
+    "price": 4000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "narayngonj",
+    "status": "pending"
+  },
+  {
+    "category": "Bangla Tutoring",
+    "photo": "https://i.ibb.co/vsQ087t/math.jpg",
+    "price": 18,
+    "serviceArea": "Chittagong, Bangladesh",
+    "description": "Interactive Bangla lessons for beginners and advanced learners.",
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "deadline": "2024-08-03T04:07:12.315Z",
+     "status": "pending"
+  },
+  {
+    "category": "Bangla Tutoring",
+    "deadline": "2024-08-09T12:29:06.843Z",
+    "description": "Learn Bangla from a native speaker with years of experience.",
+    "photo": "https://i.ibb.co/rfZWFCp/banhla2.jpg",
+    "price": 4000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "narayngonj",
+    "status": "pending"
+  },
+  {
+    "category": "Math Tutoring",
+    "deadline": "2024-08-09T12:31:22.947Z",
+    "description": "Experienced math tutor for high school students.",
+    "photo": "https://i.ibb.co/vsQ087t/math.jpg",
+    "price": 3000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "dhaka",
+    "status": "pending"
+    
+  },
+  {
+    "photo": "https://i.ibb.co/pXT6Rpj/english.jpg",
+    "category": "English Tutoring",
+    "serviceArea": "bogura",
+    "price": { "$numberInt": "2000" },
+    "description": "Improve your English skills with personalized lessons.",
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "deadline": "2024-08-03T04:07:12.315Z",
+     "status": "pending"
+  },
+  {
+    "category": "Math Tutoring",
+    "deadline": "2024-08-09T12:31:22.947Z",
+    "description": "Experienced math tutor for high school students.",
+    "photo": "https://i.ibb.co/vsQ087t/math.jpg",
+    "price": 3000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "dhaka",
+    "status": "pending"
+  },
+  {
+    "category": "Math Tutoring",
+    "deadline": "2024-08-09T12:31:22.947Z",
+    "description": "Experienced math tutor for high school students.",
+    "photo": "https://i.ibb.co/vsQ087t/math.jpg",
+    "price": 3000,
+    "providerEmail": "arifa@gmail.com",
+    "providerImage": "https://i.ibb.co/Ch2y4GN/profile.png",
+    "providerName": "Arifa",
+    "serviceArea": "dhaka",
+    "status": "pending"
+  }
+]
